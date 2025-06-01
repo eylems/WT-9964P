@@ -42,9 +42,3 @@ Bu proje, bir mobil uygulama için hazırlanmış şık ve modern bir tanıtım 
 ## 📩 Geri Bildirim
 
 Sayfanın üst kısmında yer alan **Send Feedback** butonuna tıklayarak kullanıcılar bir modal aracılığıyla ad, e-posta, telefon ve mesaj bilgilerini girebilirler.
-
-## 🛠️ Nasıl Kullanılır?
-
-1. Projeyi indir veya klonla:
-   ```bash
-   git clone https://github.com/kullanici-adi/mobile-app-landing-page.git
