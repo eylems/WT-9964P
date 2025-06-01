@@ -14,14 +14,14 @@ Bu proje, bir mobil uygulama için hazırlanmış şık ve modern bir tanıtım 
 
 ## 📁 Dosya Yapısı
 
- mobile-app-landing-page/
- │
- ├── index.html # Ana HTML dosyası
- ├── style.css # Özel stiller
- ├── assets/
- │ └── img/ # Görseller (app store badge, telefon mockup, vs.)
- │
- └── README.md # Bu dosya
+mobile-app-landing-page/
+│
+├── index.html # Ana HTML dosyası
+├── style.css # Özel stiller
+├── assets/
+│ └── img/ # Görseller (app store badge, telefon mockup, vs.)
+│
+└── README.md # Bu dosya
  
 ## 📷 Görseller
 
